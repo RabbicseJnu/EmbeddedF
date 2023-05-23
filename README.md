@@ -3,6 +3,7 @@ In our country, people while passing through an official wok, need to recourse t
 Materials:
 
 Software
+
         •Android studio                                                                                        
         •Java,C                                                                                                       
         •Proteus                                                                                                    
@@ -11,6 +12,7 @@ Software
         •FireBase                                                                                                                                                                                                
 	
 Hardware
+
         •PIR Motion sensor                                                                             
         •Microprocessor                                                                                  
         •Wi-Fi Module                                                                                     
